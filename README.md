@@ -1,0 +1,3 @@
+Hi! If you've found this repo, you've found my personal fork of the main.css for ClearVision v7. It says exactly what it does on the tin and kills the watermark dead, mostly because I run Equicord and it overlaps with the channel name making it unreadable. There are several other modifications to suit my liking aswell.
+
+If you do not wish to simply use what I have, then you can remove the watermark yourself. Simply paste the raw text from main.css into a text file, file off the watermark and version number that you can CTRL+F in the literal first few lines, leaving the content field blank, then throw the file into your own repo and point the actual theme css to import that instead of the one on clearvision.github.
